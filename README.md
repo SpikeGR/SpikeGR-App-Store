@@ -27,7 +27,7 @@ SpikeGR App Store currently supports:
 [https://instagram.com/spikegr_official](https://instagram.com/spikegr_official)
 
  - TikTok:
-[https://tiktok.com/@not_spikegr](https://tiktok.com/@spikegr_official)
+[https://tiktok.com/@spikegr_official](https://tiktok.com/@spikegr_official)
 
  - Website:
 https://spikegr.com
