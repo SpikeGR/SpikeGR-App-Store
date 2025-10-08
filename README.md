@@ -21,13 +21,13 @@ SpikeGR App Store currently supports:
 ## Our Social Media
 
  - YouTube:
-[https://youtube.com/@not_spikegr](https://youtube.com/@not_spikegr)
+[https://youtube.com/@spikegr_official](https://youtube.com/@spikegr_official)
 
  - Instagram:
 [https://instagram.com/spikegr_official](https://instagram.com/spikegr_official)
 
  - TikTok:
-[https://tiktok.com/@not_spikegr](https://tiktok.com/@not_spikegr)
+[https://tiktok.com/@not_spikegr](https://tiktok.com/@spikegr_official)
 
  - Website:
-https://appstore.spikegr.com
+https://spikegr.com
